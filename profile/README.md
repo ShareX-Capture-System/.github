@@ -1,7 +1,7 @@
 # ShareX Screen Capture Environment for Windows
 
 <div align="center">
-  <img src="https://via.placeholder.com/150" alt="Program Logo"/>
+  <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400040/header.jpg?t=1736919331" alt="Program Logo"/>
 </div>
 
 <div align="center">
@@ -25,7 +25,7 @@ As a dedicated screenshot editor, the program allows for immediate annotation of
 The configuration of the software is highly flexible, allowing for custom hotkeys that accelerate daily tasks. By tailoring the recording parameters, users can achieve consistent results tailored to their specific requirements. This level of control makes it a standout tool for those managing large volumes of visual content.
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x300" alt="Program Interface Screenshot"/>
+  <img src="https://cdn.mos.cms.futurecdn.net/qifhYynH7pK9Y8B4Nu9GBH.jpg" alt="Program Interface Screenshot"/>
 </div>
 
 <div align="center">
@@ -71,6 +71,6 @@ The configuration of the software is highly flexible, allowing for custom hotkey
 
 ---
 
-###
+### 🏷 Tags
 
 screenshot tool • screen capture • screen recorder • take screenshot • capture screen • record screen • GIF creator • scrolling capture • OCR text recognition • open source screenshot tool • screen capture software • image uploader • capture area • screen recording software • ShareX • ShareX configuration • screenshot editor • video capture • record screen • screenshot automation • custom hotkeys • image annotation
