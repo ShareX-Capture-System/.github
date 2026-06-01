@@ -71,6 +71,6 @@ The configuration of the software is highly flexible, allowing for custom hotkey
 
 ---
 
-### 🏷 Tags
+### 
 
 screenshot tool • screen capture • screen recorder • take screenshot • capture screen • record screen • GIF creator • scrolling capture • OCR text recognition • open source screenshot tool • screen capture software • image uploader • capture area • screen recording software • ShareX • ShareX configuration • screenshot editor • video capture • record screen • screenshot automation • custom hotkeys • image annotation
